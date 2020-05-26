@@ -1,0 +1,16 @@
+.places {
+    color: #FFFFFF;
+    margin: 92px 0;
+}
+
+@media screen and (max-width: 780px){
+    .places {
+        margin: 88px 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .places {
+        margin: 64px 0;
+    }
+}

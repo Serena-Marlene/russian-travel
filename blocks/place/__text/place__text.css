@@ -1,0 +1,12 @@
+.place__text {
+    display: flex;
+    flex-direction: column;
+    align-self: start;
+  }
+
+  @media screen and (max-width: 550px) {
+    .place__text {
+        max-width: 288px;
+        margin: 0 auto;
+      }
+  }
