@@ -1,0 +1,10 @@
+@import url(./_span-accent/intro__list_span-accent.css);
+
+.intro__list {
+    list-style: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    padding: 0;
+}
