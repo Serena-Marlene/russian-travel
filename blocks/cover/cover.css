@@ -4,7 +4,7 @@
 @import url(./__subtitle/cover__subtitle.css);
 
 .cover {
-    min-width: 1030px;
+    max-width: 1184px;
     height: 740px;
     color: #ffffff;
     margin: 0 auto;

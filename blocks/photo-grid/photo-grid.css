@@ -6,13 +6,13 @@
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     grid-gap: 16px;
     margin: 92px auto;
-    padding: 0 48px;
+    padding: 0;  
 }
 
 @media screen and (max-width: 1030px) {
     .photo-grid {
         grid-gap: 14px;
-        
+        padding: 0 48px;
     }
 }
 
