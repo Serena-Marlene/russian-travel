@@ -6,7 +6,7 @@
 .intro {
     color: #FFFFFF;
     max-width: 984px;
-    min-height: 428px;
+    
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -27,6 +27,6 @@
 @media screen and (max-width: 550px) {
     .intro {
         max-width: 288px;
-        min-height: 752px;
+        
     }
 }
