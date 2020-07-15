@@ -17,7 +17,7 @@
 
 **Git pages**
 
-* [Ссылка на проект на Git pages](https://serena-marlene.github.io/mesto/)
+* [Ссылка на проект на Git pages](https://serena-marlene.github.io/russian-travel/)
 
 **Детали**
 
