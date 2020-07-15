@@ -9,6 +9,13 @@
 <body class="page">
   <header class="header">
     <img class="header__logo" src="./images/__logo.svg" alt="Лого"> 
+    <nav class="header__navigaion">
+      <ul class="menu">
+        <li class="menu__item">
+          <button class="menu__item-button menu__open-popup">О проекте</button>
+        </li>
+      </ul>
+    </nav>
     <div class="header__lang-links">
       <a class="header__lang-link header__lang-link_active" href="#">Ru</a>
       <a href="#" class="header__lang-link">En</a> 
@@ -141,5 +148,17 @@
       </nav>
       <p class="footer__copyright">&copy; 2020. Наталья Хорошева</p>
   </footer> 
+  <div class="popup">
+    <div class="popup__container">
+      <img class="popup__close" src="./images/plus.svg">
+      <div class="popup__content">
+        <h2 class="popup__title">О проекте</h2>
+        <p class="popup__text">"Путешествия по России" - это студенческий проект
+          программы веб-разработки. 
+          Его задача отточить навык адаптивной верстки и работы с Фигмой.</p>
+      </div>
+    </div>
+  </div>
 </body>
+<script src="./scripts/index.js"></script>
 </html>

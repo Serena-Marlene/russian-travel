@@ -1,0 +1,51 @@
+.header__navigaion {
+    margin-right: 70px;
+    margin-left: auto;
+    margin-bottom: 4px;
+    align-self: flex-end
+}
+
+
+
+.menu {
+    margin: 0;
+    padding 0;
+    list-style: none;
+    
+}
+
+.menu__item {
+    
+}
+
+.menu__item-button {
+    font-size: 28px;
+    background: none;
+    box-shadow: none;
+    color: #fff;
+    text-decoration: underline;
+    border: none;
+    cursor: pointer;
+}
+
+.menu__item-button:hover {
+    opacity: 0.8;
+}
+
+.menu__open-popup {}
+
+@media screen and (max-width: 1030px) {}
+
+@media screen and (max-width: 780px) {}
+
+@media screen and (max-width: 550px) {
+    .menu__item-button {
+        font-size: 18px;
+        
+    }
+
+    .header__navigaion {
+        margin-right: 10px;
+        
+    }
+}
